@@ -18,7 +18,7 @@ My approach combines structured prompting, visual evaluation, and human creative
 ## Portfolio Projects
 
 ### 01 — Smiling at the World | AI-Assisted Album Cover Design
-
+![Smiling at the World — Nanyang Watercolour Album Cover](projects/01-smiling-at-the-world/Smiling%20at%20the%20World%20in%20Watercolour.png)
 [View Project 01 — Creative Case Study](projects/01-smiling-at-the-world/README.md)
 
 A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia, and visual storytelling through AI-assisted creative direction.
