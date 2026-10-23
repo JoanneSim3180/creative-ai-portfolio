@@ -4,7 +4,7 @@
 
 **Chinese Title:** 微笑着看世界  
 **Creative Theme:** Nostalgic Nanyang Watercolour  
-**Project Status:** Initial Visual Concept Completed
+**Project Status:** Completed — Final Artwork
 
 ## 1. Project Overview
 
