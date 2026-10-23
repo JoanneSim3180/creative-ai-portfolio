@@ -31,17 +31,20 @@ The selected artwork contains:
 
 These are observations of the generated artwork, not a reconstruction of the original prompt.
 
-## 4. Prompt Iterations
+## 4. Prompt Iterations and Image Refinement
 
-The number and wording of prompt revisions have not yet been documented.
+The artwork was developed through multiple rounds of AI-assisted image generation and prompt refinement using ChatGPT / OpenAI Image Generation.
 
-Future entries should record:
+The creative process included:
 
-- Exact prompt wording
-- Intended changes
-- Generated output
-- Evaluation of the result
-- Reason for accepting or rejecting the iteration
+1. Exploring different visual outputs through revised prompts.
+2. Reviewing generated images against the intended creative direction.
+3. Requesting AI-assisted changes to the Chinese album title.
+4. Selecting a version for portfolio presentation.
+
+Chinese typography adjustments were performed through ChatGPT / AI image editing rather than manual typography editing in external design software.
+
+The exact prompt wording and number of iterations have not yet been documented. These details will be added only when verified against the original creation history.
 
 ## 5. Current Evaluation
 
