@@ -58,3 +58,8 @@ The project involved using ChatGPT to support programme content development and 
 The portfolio revisions focused on:
 
 -
+## Project Documentation
+
+- [AI Prompting & Creative Direction](prompts.md)
+- [Design Decisions & Visual Comparison](design-decisions.md)
+- [Creative Portfolio Homepage](../../README.md)
