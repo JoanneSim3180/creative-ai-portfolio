@@ -69,5 +69,6 @@ This artwork was generated using AI image-generation tools. Creative direction a
 
 - [Prompt Engineering — Creative Brief & AI Process](prompts.md)
 - [Design Decisions — Visual Direction & Evaluation](design-decisions.md)
+
 **Portfolio Creator:** Joanne Sim  
 **Project Type:** Personal Creative Exploration
