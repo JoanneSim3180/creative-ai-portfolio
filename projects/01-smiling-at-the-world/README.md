@@ -56,7 +56,9 @@ This case study documents the selected visual concept. The original generation p
 
 ## 6. Final Artwork
 
-The selected initial concept will be displayed here after the image is uploaded.
+![Smiling at the World — Watercolour Album Cover](Smiling%20at%20the%20World%20in%20Watercolour.png)
+
+*Initial AI-generated watercolour album cover concept.*
 
 ## 7. AI Disclosure
 
