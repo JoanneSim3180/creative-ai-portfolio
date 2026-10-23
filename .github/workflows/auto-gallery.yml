@@ -1,0 +1,78 @@
+name: Auto Update Portfolio Gallery
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/**/*.png'
+      - 'projects/**/*.jpg'
+      - 'projects/**/*.jpeg'
+      - 'projects/**/*.webp'
+      - '.github/workflows/auto-gallery.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate project galleries
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from urllib.parse import quote
+
+          root = Path("projects")
+          extensions = {".png", ".jpg", ".jpeg", ".webp"}
+
+          for project in sorted(root.iterdir()):
+              if not project.is_dir():
+                  continue
+
+              images = sorted(
+                  (p for p in project.rglob("*")
+                   if p.is_file() and p.suffix.lower() in extensions),
+                  key=lambda p: p.name.lower()
+              )
+
+              lines = [
+                  "# Artwork Gallery",
+                  "",
+                  "This gallery is automatically updated when artwork is uploaded.",
+                  "",
+              ]
+
+              if not images:
+                  lines.append("No artwork uploaded yet.")
+
+              for image in images:
+                  relative = image.relative_to(project).as_posix()
+                  encoded = quote(relative, safe="/")
+                  lines.extend([
+                      f"### {image.stem}",
+                      "",
+                      f"![{image.stem}]({encoded})",
+                      "",
+                  ])
+
+              (project / "GALLERY.md").write_text(
+                  "\n".join(lines) + "\n",
+                  encoding="utf-8"
+              )
+          PY
+
+      - name: Commit gallery updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add projects/*/GALLERY.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update portfolio galleries"
+            git push
+          fi
