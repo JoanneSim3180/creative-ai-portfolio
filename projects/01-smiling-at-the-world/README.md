@@ -2,13 +2,13 @@
 
 **AI-Assisted Album Cover Design | Creative Direction | Visual Storytelling**
 
-**Chinese Title:** 微笑看着世界  
+**Chinese Title:** 微笑着看世界  
 **Creative Theme:** Nostalgic Nanyang Watercolour  
 **Project Status:** Initial Visual Concept Completed
 
 ## 1. Project Overview
 
-*Smiling at the World* (微笑看着世界) is an AI-assisted album cover concept exploring childhood wonder, warmth, optimism, and nostalgic Southeast Asian scenery.
+*Smiling at the World* (微笑着看世界) is an AI-assisted album cover concept exploring childhood wonder, warmth, optimism, and nostalgic Southeast Asian scenery.
 
 The artwork combines watercolour illustration, tropical flowers, heritage architecture, and a sunset coastal landscape to create a gentle, uplifting atmosphere.
 
