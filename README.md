@@ -1,29 +1,32 @@
 # Creative AI Portfolio
 
-**AI-Assisted Visual Design | Prompt Engineering | Creative Direction**
+**AI-Assisted Visual Design | Creative Direction | Prompt Engineering**
 
 Welcome to my creative portfolio.
 
-I explore how generative AI can support visual storytelling, creative problem-solving, and design development.
+I explore how generative AI can support visual storytelling, creative problem-solving, and visual design development.
 
-My approach combines structured prompting, visual evaluation, and human creative judgement to develop purposeful visual concepts.
+My approach combines creative briefing, AI prompting, visual evaluation, and human creative judgement to develop purposeful visual concepts.
 
 ## Creative Focus
 
 - **AI-Assisted Visual Design** — Exploring AI-generated imagery for creative and communication projects.
-- **Prompt Engineering** — Developing structured prompts to guide visual style, composition, lighting, and creative outcomes.
-- **Creative Direction** — Defining visual objectives, evaluating results, and refining creative concepts.
-- **Visual Storytelling** — Exploring how imagery, colour, typography, and composition communicate ideas.
+- **Creative Direction** — Defining audience needs, visual objectives, and artistic references to guide creative outcomes.
+- **Prompt Engineering** — Translating creative requirements into AI instructions and evaluating generated results.
+- **Visual Storytelling** — Exploring how imagery, colour, typography, and composition communicate ideas and emotions.
 
 ## Portfolio Projects
 
 ### 01 — Smiling at the World | AI-Assisted Album Cover Design
+
 ![Smiling at the World — Nanyang Watercolour Album Cover](projects/01-smiling-at-the-world/Smiling%20at%20the%20World%20in%20Watercolour.png)
+
 [View Project 01 — Creative Case Study](projects/01-smiling-at-the-world/README.md)
 
-A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia, and visual storytelling through AI-assisted creative direction.
+A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia, and emotional storytelling through AI-assisted creative direction.
 
-**Status:** Initial visual concept completed.
+**Target Audience:** Women aged 25–48  
+**Status:** Completed — Final Artwork
 
 ### Upcoming Projects
 
@@ -33,25 +36,31 @@ A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia
 
 ## My Creative Process
 
+The following framework guides how I approach AI-assisted creative projects. The specific activities and tools used are documented within each project.
+
 1. **Define** — Identify the creative objective and intended audience.
-2. **Research** — Explore visual references and creative directions.
-3. **Develop** — Structure prompts and generate initial concepts.
-4. **Evaluate** — Review composition, consistency, realism, and visual communication.
-5. **Refine** — Make creative decisions and improve the selected work.
-6. **Document** — Record the process, tools, outcomes, and lessons learned.
+2. **Explore** — Gather visual references and consider creative directions.
+3. **Generate** — Communicate the creative brief to AI tools and explore visual outputs.
+4. **Evaluate** — Review composition, consistency, typography, and emotional communication.
+5. **Refine** — Identify improvements and make adjustments where needed.
+6. **Document** — Record creative inputs, tools, outcomes, and design observations.
 
 ## Tools & Methods
 
 - ChatGPT
 - OpenAI Image Generation
-- Prompt Engineering
+- AI Prompting
+- Creative Brief Development
+- Visual Evaluation
 - AI-Assisted Creative Exploration
 
 ## About This Portfolio
 
 This portfolio documents my exploration of generative AI as a creative tool.
 
-AI-generated content will be identified where applicable. Project case studies will distinguish AI-generated outputs from my own creative direction, evaluation, and manual design contributions.
+Each project aims to show not only the finished artwork but also the creative objective, supporting references, and the reasoning behind the selected visual direction.
+
+AI-generated content is identified in the project documentation. Human creative input, design evaluation, and AI-generated visual elements are distinguished wherever applicable.
 
 ---
 
