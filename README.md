@@ -28,6 +28,19 @@ A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia
 **Target Audience:** Women aged 25–48  
 **Status:** Completed — Final Artwork
 
+## Project 02 — Women Well Community (WWC)
+
+**AI-Assisted Infographic Design | Community Health Communication**
+
+A proposed six-week preventive-health community initiative for women aged 25–55 in Singapore, presented through two distinct AI-assisted infographic design approaches.
+
+- **Illustrated Design:** Warm, approachable, pastel visual communication.
+- **Professional Design:** Structured, teal-toned proposal communication.
+- **Creative Skills:** AI prompting, information design, audience awareness, visual evaluation and creative direction.
+
+[View Project 02 — WWC Case Study](projects/02-women-well-community/README.md)
+
+
 ### Upcoming Projects
 
 - AI Portrait & Character Design
