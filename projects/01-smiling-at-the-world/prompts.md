@@ -42,20 +42,29 @@ The selected artwork contains:
 
 These are observations of the generated artwork, not a reconstruction of the original prompt.
 
-## 4. Prompt Iterations and Image Refinement
+## 4. Original Prompt and Outcome
 
-The artwork was developed through multiple rounds of AI-assisted image generation and prompt refinement using ChatGPT / OpenAI Image Generation.
+### Original User Prompt
 
-The creative process included:
+> I need a album cover. target audience 25-48 yo woman, something like fish leong album style. 这是我之前draft的南洋风味、
 
-1. Exploring different visual outputs through revised prompts.
-2. Reviewing generated images against the intended creative direction.
-3. Requesting AI-assisted changes to the Chinese album title.
-4. Selecting a version for portfolio presentation.
+### Supporting Input
 
-Chinese typography adjustments were performed through ChatGPT / AI image editing rather than manual typography editing in external design software.
+The creator provided existing Nanyang-inspired visual drafts as references.
 
-The exact prompt wording and number of iterations have not yet been documented. These details will be added only when verified against the original creation history.
+### Outcome
+
+The prompt and supporting visual references led to the selected album cover artwork, *Smiling at the World*.
+
+### Creative Evaluation
+
+The resulting artwork was selected for its nostalgic Southeast Asian atmosphere, watercolour-inspired illustration, and warm emotional tone.
+
+### AI-Assisted Typography
+
+The creator also reported using ChatGPT / AI to make changes to Chinese title lettering. The exact sequence of these changes has not yet been documented.
+
+This case study does not claim a specific number of prompt iterations or manual image edits.
 
 ## 5. Current Evaluation
 
