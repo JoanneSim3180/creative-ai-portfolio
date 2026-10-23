@@ -81,6 +81,10 @@ Additional promotional materials or alternative formats may be explored as separ
 
 *Final AI-generated watercolour album cover — Smiling at the World (微笑着看世界).*
 
+### Additional Artwork — Nanyang Flower Lane
+
+![Nanyang Flower Lane](nanyang-flower-lane.png)
+
 ## 7. AI Disclosure
 
 The artwork was generated using ChatGPT / OpenAI Image Generation, informed by the creator's original brief and supplied visual references.
