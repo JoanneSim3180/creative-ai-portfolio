@@ -65,6 +65,9 @@ This case study documents the selected visual concept. The original generation p
 This artwork was generated using AI image-generation tools. Creative direction and evaluation are documented separately from AI-generated visual elements.
 
 ---
+## Explore the Creative Process
 
+- [Prompt Engineering — Creative Brief & AI Process](prompts.md)
+- [Design Decisions — Visual Direction & Evaluation](design-decisions.md)
 **Portfolio Creator:** Joanne Sim  
 **Project Type:** Personal Creative Exploration
