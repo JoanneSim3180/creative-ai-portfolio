@@ -30,19 +30,11 @@ The design aims to communicate:
 
 ## 3. Design A — Illustrated Community Infographic
 
-![WWC Illustrated Infographic](wwc-illustrated.png)
-
-**Visual Direction:** Pastel purple, friendly illustrations, rounded information panels, and floral accents.
-
-**Design Evaluation:** This approach creates a warm and approachable presentation. It may be more suitable for introducing the programme concept to potential community participants.
+![WWC Illustrated Infographic](<Women Well Community Health Infographic——Github version.png>)
 
 ## 4. Design B — Professional Proposal Infographic
 
-![WWC Professional Infographic](wwc-professional.png)
-
-**Visual Direction:** Teal and white colour palette, structured content panels, lifestyle imagery, and professional typography.
-
-**Design Evaluation:** This approach emphasises information hierarchy and a formal presentation style. It may be more suitable for communicating the proposal to programme reviewers or organisational stakeholders.
+![WWC Professional Infographic](<Women Well_ Community Health Initiative——Github Version.png>)
 
 ## 5. Visual Design Comparison
 
