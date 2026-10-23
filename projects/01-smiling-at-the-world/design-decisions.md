@@ -3,7 +3,7 @@
 **Project:** AI-Assisted Album Cover Design  
 **Chinese Title:** 微笑着看世界  
 **Creative Theme:** Nostalgic Nanyang Watercolour  
-**Status:** Initial Concept Review
+**Status:** Completed — Final Artwork
 
 ## 1. Creative Objective
 
@@ -11,19 +11,21 @@ The project explores a warm, nostalgic, and uplifting visual direction for a Chi
 
 The intended audience is women aged approximately 25–48, with an interest in emotionally engaging and nostalgic visual storytelling.
 
+The creative brief referenced the emotional and approachable aesthetic associated with Fish Leong's album artwork, alongside existing Nanyang-inspired visual drafts.
+
 The design explores how Southeast Asian cultural imagery and childhood imagination can communicate optimism and emotional warmth.
 
 ## 2. Visual Direction
 
 ### Illustration Style
 
-**Observed:** The selected artwork uses a hand-painted watercolour aesthetic with soft textures, expressive outlines, and pastel colours.
+**Observed:** The final artwork uses a watercolour-inspired aesthetic with soft textures, expressive outlines, and pastel colours.
 
 **Design Evaluation:** The watercolour treatment supports a gentle, imaginative atmosphere rather than a formal or highly realistic presentation.
 
 ### Colour Palette
 
-**Observed colours:**
+**Observed Colours:**
 
 - Sky blue
 - Peach pink
@@ -49,49 +51,63 @@ The title appears in the upper-left area, while tropical flowers, architecture, 
 
 ## 3. Typography Evaluation
 
-The artwork uses expressive Chinese calligraphy-inspired lettering.
+The final artwork uses expressive Chinese calligraphy-inspired lettering for the album title, 微笑着看世界.
 
-**Strength:** The handwritten treatment complements the illustrated atmosphere.
+**Design Evaluation:** The handwritten treatment complements the watercolour illustration and contributes to the nostalgic visual identity.
 
-**Area for Improvement:** Chinese character accuracy, readability, and title consistency must be reviewed before considering the artwork final.
+The creator reported using ChatGPT / AI to adjust the Chinese title lettering. The exact editing sequence has not been documented.
 
-Any typography corrections should be documented as separate revisions.
+The artwork has been selected as the completed design.
 
 ## 4. Human Creative Judgment
 
-The project is guided by a creative brief focusing on emotional storytelling, audience relevance, and a nostalgic Nanyang-inspired atmosphere.
+The creator established the initial creative direction through a brief identifying the target audience, artistic reference, and Nanyang-inspired aesthetic.
 
-The selected AI-generated output is being evaluated for:
+Existing visual drafts were provided as supporting references for AI image generation.
 
-1. Alignment with the intended emotional message
-2. Consistency of visual style
-3. Effectiveness of colour and composition
-4. Cultural and visual relevance
-5. Accuracy and readability of typography
+The final output can be assessed against five design criteria:
 
-These evaluation criteria document the human review process. They do not imply that every visible element was individually created or specified by the portfolio creator.
+1. **Emotional Communication:** Does the image convey warmth, nostalgia, and optimism?
+2. **Visual Consistency:** Do the illustration style and decorative elements form a coherent design?
+3. **Colour and Composition:** Does the visual arrangement support the intended mood and focal point?
+4. **Cultural Relevance:** Do the environmental details communicate a Nanyang-inspired atmosphere?
+5. **Typography:** Does the Chinese title complement the illustration and remain readable?
 
-## 5. Future Refinements
+These criteria provide a framework for documenting the visual evaluation of the completed artwork.
 
-Potential improvements include:
+They do not imply that every generated element was individually specified or manually created by the portfolio creator.
 
-- Correcting or refining Chinese typography
-- Testing title readability at music-platform thumbnail sizes
-- Reviewing visual hierarchy and text placement
+## 5. Final Design Assessment
+
+The completed album cover combines a watercolour-inspired illustration style, warm pastel colours, and Southeast Asian heritage imagery.
+
+The character and surrounding environment establish a nostalgic visual narrative, while the decorative elements introduce a sense of childhood imagination.
+
+The overall visual direction aligns with the project's intended emotional tone and Nanyang-inspired creative brief.
+
+The artwork was selected for final portfolio presentation.
+
+## 6. Potential Future Exploration
+
+Although this artwork is complete, possible directions for a separate future exploration include:
+
+- Testing the composition at smaller digital music-platform sizes
 - Exploring alternative colour treatments
-- Comparing the artwork with the original creative brief
+- Experimenting with different typography arrangements
+- Developing complementary promotional artwork
 
-These are proposed improvements, not completed design iterations.
+These are optional future creative explorations, not outstanding corrections to the completed design.
 
-## 6. AI-Assisted Creation Disclosure
+## 7. AI-Assisted Creation Disclosure
 
-The initial artwork was generated using OpenAI Image Generation.
+The artwork was generated using ChatGPT / OpenAI Image Generation, based on the creator's original brief and supplied visual references.
 
-The portfolio documents creative objectives, visual evaluation, and subsequent design decisions separately from AI-generated imagery.
+The creator provided the creative direction, reviewed the generated result, and selected the final artwork.
 
-Original prompt wording and generation history should be recorded only when verified.
+The visual analysis in this document is retrospective and does not imply that every observed feature was explicitly requested in the original prompt.
 
 ---
 
 **Creative Direction & Documentation:** Joanne Sim  
-**Project Type:** Personal Creative Exploration
+**Project Type:** Personal Creative Exploration  
+**Artwork Status:** Final Artwork
