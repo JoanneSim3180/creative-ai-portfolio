@@ -17,12 +17,17 @@ My approach combines structured prompting, visual evaluation, and human creative
 
 ## Portfolio Projects
 
-Projects will be added as they are completed and documented.
+### 01 — Smiling at the World | AI-Assisted Album Cover Design
 
-Planned areas of exploration include:
+[View Project 01 — Creative Case Study](projects/01-smiling-at-the-world/README.md)
+
+A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia, and visual storytelling through AI-assisted creative direction.
+
+**Status:** Initial visual concept completed.
+
+### Upcoming Projects
 
 - AI Portrait & Character Design
-- Album Cover Design
 - Poster & Promotional Design
 - Brochure & Editorial Design
 
