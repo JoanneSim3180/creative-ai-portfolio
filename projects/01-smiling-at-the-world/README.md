@@ -91,11 +91,6 @@ The portfolio distinguishes human creative input and design evaluation from AI-g
 
 ---
 
-## Explore the Creative Process
-
-- [Prompt Engineering — Original Brief & AI Workflow](prompts.md)
-- [Design Decisions — Visual Direction & Evaluation](design-decisions.md)
-
 **Portfolio Creator:** Joanne Sim  
 **Project Type:** Personal Creative Exploration  
 **Artwork Status:** Final Artwork
