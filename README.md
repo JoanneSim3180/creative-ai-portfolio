@@ -29,13 +29,13 @@ A Nanyang-inspired watercolour album cover exploring childhood wonder, nostalgia
 **Status:** Completed — Final Artwork
 
 ## Project 02 — Women Well Community (WWC)
-### Illustrated Community Infographic
+### Featured Artwork — WWC Infographic
 
-![WWC Illustrated Infographic](<projects/02-women-well-community/Women Well Community Health Infographic——Github version.png>)
+<a href="projects/02-women-well-community/README.md">
+  <img src="projects/02-women-well-community/Women Well Community Health Infographic——Github version.png" alt="WWC Illustrated Community Health Infographic" width="350">
+</a>
 
-### Professional Proposal Infographic
-
-![WWC Professional Infographic](<projects/02-women-well-community/Women Well_ Community Health Initiative——Github Version.png>)
+[View Both Infographic Designs & Case Study](projects/02-women-well-community/README.md)
 **AI-Assisted Infographic Design | Community Health Communication**
 
 A proposed six-week preventive-health community initiative for women aged 25–55 in Singapore, presented through two distinct AI-assisted infographic design approaches.
