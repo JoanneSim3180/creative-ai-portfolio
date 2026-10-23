@@ -63,3 +63,7 @@ The portfolio revisions focused on:
 - [AI Prompting & Creative Direction](prompts.md)
 - [Design Decisions & Visual Comparison](design-decisions.md)
 - [Creative Portfolio Homepage](../../README.md)
+
+## Artwork Gallery
+
+[View All Infographic Designs →](GALLERY.md)
