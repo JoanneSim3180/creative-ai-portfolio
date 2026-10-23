@@ -94,6 +94,9 @@ The creator provided creative direction, evaluated the output, and selected the 
 The portfolio distinguishes human creative input and design evaluation from AI-generated visual elements.
 
 ---
+## Artwork Gallery
+
+[View All Album Cover Designs →](GALLERY.md)
 
 **Portfolio Creator:** Joanne Sim  
 **Project Type:** Personal Creative Exploration  
