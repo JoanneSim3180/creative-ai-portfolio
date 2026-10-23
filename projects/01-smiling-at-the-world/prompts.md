@@ -6,8 +6,19 @@
 **Documentation Status:** In Progress
 
 ## 1. Creative Objective
+### Original Creative Brief
 
-Explore an AI-assisted album cover concept that communicates warmth, optimism, childhood wonder, and Southeast Asian nostalgia.
+> I need a album cover. target audience 25-48 yo woman, something like fish leong album style. 这是我之前draft的南洋风味、
+
+**Creative Brief Interpretation:**
+
+- **Deliverable:** Album cover design
+- **Target Audience:** Women aged 25–48
+- **Artistic Reference:** The emotional and approachable aesthetic associated with Fish Leong's album artwork
+- **Cultural Direction:** Nanyang-inspired visual storytelling
+- **Starting Point:** An existing visual draft provided by the creator
+
+This is the creator's original brief, not the complete image-generation prompt. Subsequent prompt iterations and visual refinements are documented separately.
 
 ## 2. Prompt Development
 
